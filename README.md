@@ -4,8 +4,8 @@ This is an in-progress Esperanto translation of Pokémon Ruby and Sapphire, fork
 
 It builds the following ROMs:
 
-- Pokemon Ruby (UE) (Eo) (v1.0).gba `sha256: TBA`
-- Pokemon Sapphire (UE) (Eo) (v1.0).gba `sha256: TBA`
+- Pokemon Ruby (U) (Eo) (v1.0).gba `sha256: TBA`
+- Pokemon Sapphire (U) (Eo) (v1.0).gba `sha256: TBA`
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
