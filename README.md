@@ -2,7 +2,7 @@
 
 This is an in-progress Esperanto translation of Pokémon Ruby and Sapphire, forked from [pret's disassembly][original].
 
-It builds the following ROM:
+It builds the following ROMs:
 
 - Pokemon Ruby (UE) (Eo).gbc `sha256: TBA`
 - Pokemon Sapphire (UE) (Eo).gbc `sha256: TBA`
